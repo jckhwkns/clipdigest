@@ -3,6 +3,8 @@ name = "clipdigest"
 version = "1.0.0"
 description = "Condense a long YouTube video into a comprehension-preserving web viewer."
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.11"
 dependencies = [
     "youtube-transcript-api>=0.6.2",
