@@ -1,0 +1,9 @@
+# Transcript (primary path — no video download)
+youtube-transcript-api>=0.6.2
+
+# LLM editor — install whichever provider you use (both are fine):
+anthropic>=0.39.0
+openai>=1.40.0
+
+# Optional transcript fallback (auto-sub VTT). Only needed if the API path fails.
+# yt-dlp>=2024.0.0
